@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+
+<MenuBar xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/23.0.1" fx:controller="org.example.view.Menu">
+  <menus>
+    <Menu mnemonicParsing="false" text="Mobil">
+      <items>
+            <MenuItem mnemonicParsing="false" onAction="#lista" text="Lista" />
+        <MenuItem mnemonicParsing="false" onAction="#felvitel" text="Felvitel" />
+      </items>
+    </Menu>
+  </menus>
+</MenuBar>

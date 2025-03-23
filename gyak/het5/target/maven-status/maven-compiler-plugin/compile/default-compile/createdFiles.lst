@@ -1,0 +1,13 @@
+hu\alkfejl\dao\UtazasDAO.class
+hu\alkfejl\model\Latnivalo.class
+hu\alkfejl\view\UtazasListing.class
+hu\alkfejl\App.class
+hu\alkfejl\dao\LatnivaloDAO.class
+hu\alkfejl\common\MenuController.class
+hu\alkfejl\controller\UtazasController.class
+hu\alkfejl\view\PrimaryController.class
+hu\alkfejl\dao\UtazasDAOImpl.class
+hu\alkfejl\model\Utazas.class
+hu\alkfejl\controller\LatnivaloController.class
+hu\alkfejl\view\UtazasFelvitel.class
+hu\alkfejl\dao\LatnivaloDAOImpl.class

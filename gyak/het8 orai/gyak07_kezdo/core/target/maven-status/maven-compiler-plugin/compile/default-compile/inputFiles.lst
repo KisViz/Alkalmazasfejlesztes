@@ -1,0 +1,12 @@
+/home.local/valaki/Letöltések/gyak07_kezdo/core/src/main/java/hu/alkfejl/controller/LatnivaloController.java
+/home.local/valaki/Letöltések/gyak07_kezdo/core/src/main/java/hu/alkfejl/controller/UtazasController.java
+/home.local/valaki/Letöltések/gyak07_kezdo/core/src/main/java/hu/alkfejl/dao/LatnivaloDAO.java
+/home.local/valaki/Letöltések/gyak07_kezdo/core/src/main/java/hu/alkfejl/dao/LatnivaloDAOImpl.java
+/home.local/valaki/Letöltések/gyak07_kezdo/core/src/main/java/hu/alkfejl/dao/UtazasDAO.java
+/home.local/valaki/Letöltések/gyak07_kezdo/core/src/main/java/hu/alkfejl/dao/UtazasDAOImpl.java
+/home.local/valaki/Letöltések/gyak07_kezdo/core/src/main/java/hu/alkfejl/dao/UtazasSQLiteImpl.java
+/home.local/valaki/Letöltések/gyak07_kezdo/core/src/main/java/hu/alkfejl/dao/UtazasWebDAO.java
+/home.local/valaki/Letöltések/gyak07_kezdo/core/src/main/java/hu/alkfejl/model/Latnivalo.java
+/home.local/valaki/Letöltések/gyak07_kezdo/core/src/main/java/hu/alkfejl/model/Utazas.java
+/home.local/valaki/Letöltések/gyak07_kezdo/core/src/main/java/hu/alkfejl/utils/ConfigManager.java
+/home.local/valaki/Letöltések/gyak07_kezdo/core/src/main/java/module-info.java

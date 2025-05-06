@@ -1,0 +1,6 @@
+hu/alkfejl/view/UtazasFelvitel.class
+hu/alkfejl/App.class
+module-info.class
+hu/alkfejl/view/PrimaryController.class
+hu/alkfejl/view/UtazasListing.class
+hu/alkfejl/common/MenuController.class

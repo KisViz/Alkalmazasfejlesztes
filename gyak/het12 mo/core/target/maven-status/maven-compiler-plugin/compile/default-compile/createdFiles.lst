@@ -1,0 +1,13 @@
+hu\alkfejl\dao\UtazasDAO.class
+hu\alkfejl\model\Latnivalo.class
+hu\alkfejl\dao\LatnivaloDAO.class
+hu\alkfejl\dao\UtazasSQLiteImpl$Query.class
+hu\alkfejl\controller\UtazasController.class
+hu\alkfejl\dao\UtazasSQLiteImpl.class
+hu\alkfejl\dao\UtazasWebDAO$1.class
+hu\alkfejl\utils\ConfigManager.class
+hu\alkfejl\dao\UtazasDAOImpl.class
+hu\alkfejl\model\Utazas.class
+hu\alkfejl\controller\LatnivaloController.class
+hu\alkfejl\dao\UtazasWebDAO.class
+hu\alkfejl\dao\LatnivaloDAOImpl.class

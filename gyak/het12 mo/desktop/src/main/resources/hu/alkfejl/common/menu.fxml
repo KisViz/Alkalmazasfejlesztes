@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+
+<MenuBar prefHeight="27.0" prefWidth="Infinity" fx:controller="hu.alkfejl.common.MenuController" xmlns="http://javafx.com/javafx/13" xmlns:fx="http://javafx.com/fxml/1">
+    <menus>
+        <Menu mnemonicParsing="false" text="Utazas">
+            <items>
+                <MenuItem fx:id="utazasFelvitelMI" mnemonicParsing="false" onAction="#openUtazasFelvitel" text="Felvitel" />
+                <MenuItem fx:id="utazasListazasMI" mnemonicParsing="false" onAction="#setUtazasListing" text="Listazas" />
+                <MenuItem fx:id="utazasPreferenceMI" mnemonicParsing="false" onAction="#setUtazasPreferences" text="Beállítások" />
+            </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Latnivalo">
+            <items>
+                <MenuItem fx:id="latnivaloFelvitelMI" mnemonicParsing="false" onAction="#openLatnivaloFelvitel" text="Felvitel" />
+                <MenuItem fx:id="latnivaloListazasMI" mnemonicParsing="false" onAction="#setLatnivaloListing" text="Listazas" />
+            </items>
+        </Menu>
+    </menus>
+</MenuBar>
